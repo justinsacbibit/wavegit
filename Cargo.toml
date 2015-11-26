@@ -1,0 +1,10 @@
+[package]
+name = "wavegit"
+version = "0.1.0"
+authors = ["Justin Sacbibit <jsacbibit@gmail.com>"]
+
+[dependencies]
+flate2 = "0.2"
+rust-crypto = "0.2"
+rustc-serialize = "0.3.16"
+
